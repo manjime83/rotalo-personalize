@@ -1,0 +1,26 @@
+{
+    "type": "record",
+    "name": "Items",
+    "namespace": "com.amazonaws.personalize.schema",
+    "fields": [
+        {
+            "name": "ITEM_ID",
+            "type": "string"
+        },
+        {
+            "name": "CATEGORY",
+            "type": "string",
+            "categorical": true
+        },
+        {
+            "name": "SUBCATEGORY",
+            "type": "string",
+            "categorical": true
+        },
+        {
+            "name": "PRICE",
+            "type": "int"
+        }
+    ],
+    "version": "1.0"
+}

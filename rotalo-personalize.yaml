@@ -1,0 +1,63 @@
+AWSTemplateFormatVersion: 2010-09-09
+
+Parameters:
+  ProjectName:
+    Type: String
+  EnvironmentType:
+    Type: String
+
+Resources:
+  PersonalizeBucket:
+    Type: AWS::S3::Bucket
+    Properties:
+      BucketName:
+        !Join ["-", [!Ref ProjectName, !Ref EnvironmentType, personalize]]
+      BucketEncryption:
+        ServerSideEncryptionConfiguration:
+          - ServerSideEncryptionByDefault:
+              SSEAlgorithm: AES256
+      VersioningConfiguration:
+        Status: Enabled
+      PublicAccessBlockConfiguration:
+        BlockPublicAcls: true
+        IgnorePublicAcls: true
+        BlockPublicPolicy: true
+        RestrictPublicBuckets: true
+
+  PersonalizeBucketPolicy:
+    Type: AWS::S3::BucketPolicy
+    Properties:
+      Bucket: !Ref PersonalizeBucket
+      PolicyDocument:
+        Version: 2012-10-17
+        Statement:
+          - Principal:
+              Service: personalize.amazonaws.com
+            Effect: Allow
+            Action:
+              - s3:ListBucket
+            Resource:
+              - !GetAtt PersonalizeBucket.Arn
+          - Principal:
+              Service: personalize.amazonaws.com
+            Effect: Allow
+            Action:
+              - s3:GetObject
+            Resource:
+              - !Join ["/", [!GetAtt PersonalizeBucket.Arn, "*"]]
+
+  PersonalizeRole:
+    Type: AWS::IAM::Role
+    Properties:
+      RoleName: !Join ["-", [!Ref ProjectName, !Ref EnvironmentType, role]]
+      AssumeRolePolicyDocument:
+        Version: 2012-10-17
+        Statement:
+          - Principal:
+              Service:
+                - personalize.amazonaws.com
+            Effect: Allow
+            Action:
+              - sts:AssumeRole
+      ManagedPolicyArns:
+        - arn:aws:iam::aws:policy/service-role/AmazonPersonalizeFullAccess

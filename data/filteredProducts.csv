@@ -1,0 +1,1292 @@
+﻿ITEM_ID,CATEGORY,SUBCATEGORY,PRICE
+1,Moda y accesorios,Camisetas,1
+2,Electrodomi,Otros,400
+3,Tecnologi,Celulares y teli,600
+4,Tecnologi,Celulares y teli,3000
+5,Servicios y maquinaria,Otros servicios,3500
+6,Deportes y entretenimiento,Instrumentos musicales y accesorios,5000
+7,Deportes y entretenimiento,Libros,5000
+8,Deportes y entretenimiento,Libros,5000
+9,Deportes y entretenimiento,Libros,5000
+10,Deportes y entretenimiento,Libros,5000
+11,Deportes y entretenimiento,Libros,5000
+12,Deportes y entretenimiento,Libros,5000
+13,Moda y accesorios,Accesorios,6000
+14,Hogar y decoracii,Bai,8000
+15,Vehi,Motos,8900
+16,Moda y accesorios,Ropa interior,10000
+17,Deportes y entretenimiento,Libros,10000
+18,Servicios y maquinaria,Reparaciones,10000
+19,Deportes y entretenimiento,Libros,10000
+20,Servicios y maquinaria,Disei,10000
+21,Deportes y entretenimiento,Libros,10000
+22,Tecnologi,Accesorios tecnologi,10000
+23,Moda y accesorios,Otros,10000
+24,Servicios y maquinaria,Regalos,10000
+25,Bebi,Ropa y accesorios,15000
+26,Hogar y decoracii,Decoracii,15000
+27,Servicios y maquinaria,Otros servicios,15000
+28,Vehi,Accesorios,18000
+29,Hogar y decoracii,Decoracii,19900
+30,Moda y accesorios,Accesorios,20000
+31,Moda y accesorios,Accesorios,20000
+32,Hogar y decoracii,Oficinas,20000
+33,Hogar y decoracii,Decoracii,20000
+34,Servicios y maquinaria,Regalos,20000
+35,Moda y accesorios,Accesorios,20000
+36,Moda y accesorios,Camisetas,25000
+37,Deportes y entretenimiento,Arti,25000
+38,Servicios y maquinaria,Disei,25000
+39,Deportes y entretenimiento,Libros,25000
+40,Servicios y maquinaria,Regalos,27000
+41,Hogar y decoracii,Decoracii,28000
+42,Inmuebles,Lotes,28000
+43,Moda y accesorios,Pijamas,30000
+44,Servicios y maquinaria,Otros servicios,30000
+45,Hogar y decoracii,Decoracii,30000
+46,Hogar y decoracii,Otros   ,30000
+47,Moda y accesorios,Camisetas deportivas,30000
+48,Hogar y decoracii,Decoracii,30000
+49,Hogar y decoracii,Salas,30000
+50,Hogar y decoracii,Otros   ,30000
+51,Servicios y maquinaria,Regalos,30000
+52,Hogar y decoracii,Otros   ,30000
+53,Tecnologi,Accesorios tecnologi,30000
+54,Tecnologi,Accesorios tecnologi,30000
+55,Servicios y maquinaria,Regalos,30000
+56,Moda y accesorios,Bermudas y pantalonetas,30000
+57,Vehi,Carros,33000
+58,Bebi,Otros,35000
+59,Tecnologi,Tv - reproductores de video,35000
+60,Moda y accesorios,Accesorios,35000
+61,Inmuebles,Lotes,35000
+62,Tecnologi,Accesorios tecnologi,35000
+63,Hogar y decoracii,Decoracii,35000
+64,Bebi,Otros,38000
+65,Moda y accesorios,Camisetas,39000
+66,Moda y accesorios,Otros,40000
+67,Electrodomi,Cocinas,40000
+68,Bebi,Otros,40000
+69,Moda y accesorios,Trajes,41000
+70,Tecnologi,Videojuegos - consolas,45000
+71,Bebi,Dormitorios - cunas,45000
+72,Bebi,Ropa y accesorios,48000
+73,Hogar y decoracii,Decoracii,49000
+74,Bebi,Ropa y accesorios,50000
+75,Servicios y maquinaria,Regalos,50000
+76,Vehi,Accesorios,50000
+77,Tecnologi,Camaras y accesorios,50000
+78,Tecnologi,Audio,50000
+79,Bebi,Dormitorios - cunas,50000
+80,Electrodomi,Otros,50000
+81,Hogar y decoracii,Decoracii,50000
+82,Hogar y decoracii,Decoracii,50000
+83,Bebi,Otros,50000
+84,Tecnologi,Computadores  laptops y accesorios,50000
+85,Bebi,Ropa y accesorios,50000
+86,Hogar y decoracii,Otros   ,50000
+87,Tecnologi,Accesorios tecnologi,50000
+88,Moda y accesorios,Accesorios,50000
+89,Tecnologi,Videojuegos - consolas,50000
+90,Moda y accesorios,Otros,50000
+91,Tecnologi,Videojuegos - consolas,50000
+92,Servicios y maquinaria,Regalos,55000
+93,Tecnologi,Audio,55000
+94,Hogar y decoracii,Jardineri,55000
+95,Servicios y maquinaria,Regalos,60000
+96,Tecnologi,Videojuegos - consolas,60000
+97,Servicios y maquinaria,Reparaciones,60000
+98,Servicios y maquinaria,Regalos,60000
+99,Tecnologi,Videojuegos - consolas,60000
+100,Moda y accesorios,Pantalones y jeans,65000
+101,Tecnologi,Videojuegos - consolas,65000
+102,Tecnologi,Audio,65000
+103,Inmuebles,Fincas,70000
+104,Bebi,Dormitorios - cunas,70000
+105,Tecnologi,Audio,70000
+106,Tecnologi,Computadores  laptops y accesorios,70000
+107,Hogar y decoracii,Decoracii,70000
+108,Hogar y decoracii,Decoracii,70000
+109,Servicios y maquinaria,Reparaciones,70000
+110,Hogar y decoracii,Otros   ,70000
+111,Electrodomi,Cocinas,70000
+112,Servicios y maquinaria,Domicilios,70000
+113,Inmuebles,Apartamentos,70000
+114,Moda y accesorios,Camisetas deportivas,70000
+115,Tecnologi,Videojuegos - consolas,70000
+116,Bebi,Juguetes,75000
+117,Hogar y decoracii,Decoracii,75000
+118,Moda y accesorios,Otros,75000
+119,Servicios y maquinaria,Regalos,75000
+120,Moda y accesorios,Bermudas y pantalonetas,75000
+121,Deportes y entretenimiento,Bicicletas y accesorios,78000
+122,Tecnologi,Accesorios tecnologi,78900
+123,Moda y accesorios,Otros,80000
+124,Bebi,Otros,80000
+125,Servicios y maquinaria,Otros servicios,80000
+126,Deportes y entretenimiento,Colecciones,80000
+127,Hogar y decoracii,Otros   ,80000
+128,Hogar y decoracii,Otros   ,80000
+129,Hogar y decoracii,Muebles,80000
+130,Bebi,Juguetes,80000
+131,Bebi,Ropa y accesorios,80000
+132,Servicios y maquinaria,Regalos,85000
+133,Bebi,Ropa y accesorios,87000
+134,Hogar y decoracii,Salas,90000
+135,Moda y accesorios,Zapatos,90000
+136,Tecnologi,Videojuegos - consolas,90000
+137,Bebi,Otros,90000
+138,Tecnologi,Accesorios tecnologi,94000
+139,Tecnologi,Videojuegos - consolas,95000
+140,Electrodomi,Cocinas,96000
+141,Tecnologi,Accesorios tecnologi,98000
+142,Servicios y maquinaria,Clases - cursos,99000
+143,Moda y accesorios,Otros,99900
+144,Bebi,Otros,100000
+145,Deportes y entretenimiento,Arti,100000
+146,Inmuebles,Apartamentos,100000
+147,Deportes y entretenimiento,Instrumentos musicales y accesorios,100000
+148,Tecnologi,Audio,100000
+149,Hogar y decoracii,Decoracii,100000
+150,Tecnologi,Computadores  laptops y accesorios,100000
+151,Tecnologi,Impresoras - scanners,100000
+152,Servicios y maquinaria,Otros servicios,100000
+153,Hogar y decoracii,Dormitorios,100000
+154,Electrodomi,Otros,100000
+155,Hogar y decoracii,Decoracii,100000
+156,Tecnologi,Impresoras - scanners,100000
+157,Tecnologi,Videojuegos - consolas,105000
+158,Bebi,Otros,110000
+159,Hogar y decoracii,Muebles,110000
+160,Deportes y entretenimiento,Boleteri,110000
+161,Deportes y entretenimiento,Boleteri,112000
+162,Tecnologi,Accesorios tecnologi,117350
+163,Moda y accesorios,Otros,120000
+164,Moda y accesorios,Vestidos,120000
+165,Moda y accesorios,Vestidos,120000
+166,Moda y accesorios,Vestidos,120000
+167,Hogar y decoracii,Salas,120000
+168,Moda y accesorios,Tenis,120000
+169,Tecnologi,Audio,120000
+170,Hogar y decoracii,Decoracii,120000
+171,Bebi,Otros,120000
+172,Tecnologi,Accesorios tecnologi,124900
+173,Servicios y maquinaria,Regalos,125000
+174,Tecnologi,Videojuegos - consolas,125000
+175,Tecnologi,Videojuegos - consolas,130000
+176,Hogar y decoracii,Salas,130000
+177,Hogar y decoracii,Salas,130000
+178,Tecnologi,Videojuegos - consolas,130000
+179,Deportes y entretenimiento,Arti,130000
+180,Tecnologi,Videojuegos - consolas,135000
+181,Electrodomi,Cocinas,140000
+182,Moda y accesorios,Otros,140000
+183,Tecnologi,Audio,140000
+184,Bebi,Otros,140000
+185,Tecnologi,Videojuegos - consolas,145000
+186,Tecnologi,Tv - reproductores de video,149000
+187,Hogar y decoracii,Muebles,150000
+188,Inmuebles,Fincas,150000
+189,Tecnologi,Computadores  laptops y accesorios,150000
+190,Inmuebles,Apartamentos,150000
+191,Bebi,Dormitorios - cunas,150000
+192,Tecnologi,Computadores  laptops y accesorios,150000
+193,Hogar y decoracii,Salas,150000
+194,Deportes y entretenimiento,Arti,150000
+195,Inmuebles,Apartamentos,150000
+196,Deportes y entretenimiento,Arti,150000
+197,Bebi,Coches,150000
+198,Deportes y entretenimiento,Otros    ,150000
+199,Bebi,Coches,150000
+200,Hogar y decoracii,Muebles,150000
+201,Inmuebles,Apartamentos,150000
+202,Electrodomi,Aire acondicionados - ventiladores,150000
+203,Tecnologi,Otros     ,155000
+204,Tecnologi,Videojuegos - consolas,160000
+205,Moda y accesorios,Tenis,160000
+206,Deportes y entretenimiento,Boleteri,160000
+207,Tecnologi,Accesorios tecnologi,160000
+208,Hogar y decoracii,Salas,160000
+209,Hogar y decoracii,Muebles,160000
+210,Tecnologi,Videojuegos - consolas,165000
+211,Tecnologi,Accesorios tecnologi,168000
+212,Moda y accesorios,Camisetas deportivas,169000
+213,Moda y accesorios,Camisetas deportivas,169000
+214,Moda y accesorios,Camisetas deportivas,169000
+215,Moda y accesorios,Camisetas deportivas,169000
+216,Inmuebles,Apartamentos,170000
+217,Tecnologi,Celulares y teli,170000
+218,Electrodomi,Otros,170000
+219,Moda y accesorios,Otros,170000
+220,Hogar y decoracii,Salas,170000
+221,Deportes y entretenimiento,Arti,170000
+222,Tecnologi,Accesorios tecnologi,177000
+223,Moda y accesorios,Blusas y camisas,179000
+224,Moda y accesorios,Blusas y camisas,179000
+225,Moda y accesorios,Blusas y camisas,179000
+226,Bebi,Dormitorios - cunas,180000
+227,Electrodomi,Cocinas,180000
+228,Tecnologi,Computadores  laptops y accesorios,180000
+229,Tecnologi,Tv - reproductores de video,180000
+230,Bebi,Dormitorios - cunas,180000
+231,Electrodomi,Otros,180000
+232,Hogar y decoracii,Muebles,180000
+233,Moda y accesorios,Blusas y camisas,190000
+234,Moda y accesorios,Blusas y camisas,190000
+235,Moda y accesorios,Blusas y camisas,190000
+236,Tecnologi,Tv - reproductores de video,190000
+237,Tecnologi,Computadores  laptops y accesorios,199900
+238,Inmuebles,Fincas,200000
+239,Electrodomi,Otros,200000
+240,Moda y accesorios,Zapatos,200000
+241,Electrodomi,Otros,200000
+242,Tecnologi,Computadores  laptops y accesorios,200000
+243,Tecnologi,Computadores  laptops y accesorios,200000
+244,Tecnologi,Computadores  laptops y accesorios,200000
+245,Servicios y maquinaria,Maquinarias,200000
+246,Hogar y decoracii,Dormitorios,200000
+247,Hogar y decoracii,Decoracii,200000
+248,Moda y accesorios,Pantalones deportivos,214000
+249,Moda y accesorios,Pantalones deportivos,214000
+250,Deportes y entretenimiento,Boleteri,220000
+251,Deportes y entretenimiento,Bicicletas y accesorios,220000
+252,Deportes y entretenimiento,Bicicletas y accesorios,220000
+253,Inmuebles,Fincas,220000
+254,Inmuebles,Apartamentos,220000
+255,Bebi,Otros,230000
+256,Deportes y entretenimiento,Bicicletas y accesorios,250000
+257,Electrodomi,Otros,250000
+258,Moda y accesorios,Vestidos,250000
+259,Servicios y maquinaria,Otros servicios,250000
+260,Bebi,Dormitorios - cunas,250000
+261,Deportes y entretenimiento,Bicicletas y accesorios,250000
+262,Moda y accesorios,Otros,250000
+263,Hogar y decoracii,Salas,250000
+264,Deportes y entretenimiento,Arti,250000
+265,Hogar y decoracii,Muebles,250000
+266,Deportes y entretenimiento,Boleteri,250000
+267,Hogar y decoracii,Muebles,250000
+268,Hogar y decoracii,Dormitorios,250000
+269,Hogar y decoracii,Salas,260000
+270,Moda y accesorios,Otros,260000
+271,Moda y accesorios,Otros,260000
+272,Hogar y decoracii,Salas,270000
+273,Tecnologi,Celulares y teli,270000
+274,Deportes y entretenimiento,Arti,275000
+275,Hogar y decoracii,Muebles,280000
+276,Vehi,Accesorios,280000
+277,Tecnologi,Accesorios tecnologi,280000
+278,Tecnologi,Celulares y teli,280000
+279,Vehi,Accesorios,280000
+280,Hogar y decoracii,Dormitorios,280000
+281,Tecnologi,Celulares y teli,280000
+282,Electrodomi,Cocinas,280000
+283,Deportes y entretenimiento,Otros    ,300000
+284,Electrodomi,Neveras - congeladores,300000
+285,Moda y accesorios,Otros,300000
+286,Hogar y decoracii,Muebles,300000
+287,Hogar y decoracii,Muebles,300000
+288,Deportes y entretenimiento,Bicicletas y accesorios,300000
+289,Tecnologi,Otros     ,300000
+290,Bebi,Coches,300000
+291,Electrodomi,Otros,300000
+292,Deportes y entretenimiento,Otros    ,300000
+293,Moda y accesorios,Zapatos,300000
+294,Servicios y maquinaria,Clases - cursos,320000
+295,Hogar y decoracii,Muebles,320000
+296,Servicios y maquinaria,Reparaciones,333000
+297,Inmuebles,Fincas,350000
+298,Tecnologi,Videojuegos - consolas,350000
+299,Tecnologi,Videojuegos - consolas,350000
+300,Electrodomi,Otros,350000
+301,Tecnologi,Camaras y accesorios,350000
+302,Tecnologi,Computadores  laptops y accesorios,350000
+303,Hogar y decoracii,Muebles,350000
+304,Moda y accesorios,Accesorios,350000
+305,Deportes y entretenimiento,Arti,350000
+306,Deportes y entretenimiento,Otros    ,350000
+307,Inmuebles,Fincas,370000
+308,Hogar y decoracii,Muebles,380000
+309,Tecnologi,Otros     ,380000
+310,Tecnologi,Audio,380000
+311,Hogar y decoracii,Muebles,380000
+312,Bebi,Coches,400000
+313,Tecnologi,Audio,400000
+314,Deportes y entretenimiento,Bicicletas y accesorios,400000
+315,Electrodomi,Neveras - congeladores,400000
+316,Tecnologi,Celulares y teli,400000
+317,Hogar y decoracii,Muebles,400000
+318,Deportes y entretenimiento,Arti,400000
+319,Deportes y entretenimiento,Bicicletas y accesorios,400000
+320,Bebi,Coches,400000
+321,Tecnologi,Celulares y teli,400000
+322,Electrodomi,Neveras - congeladores,400000
+323,Bebi,Coches,400000
+324,Moda y accesorios,Accesorios,415000
+325,Bebi,Dormitorios - cunas,420000
+326,Tecnologi,Computadores  laptops y accesorios,420000
+327,Tecnologi,Audio,420000
+328,Tecnologi,Audio,430000
+329,Tecnologi,Accesorios tecnologi,430000
+330,Hogar y decoracii,Salas,430000
+331,Hogar y decoracii,Muebles,450000
+332,Electrodomi,Aire acondicionados - ventiladores,450000
+333,Deportes y entretenimiento,Bicicletas y accesorios,450000
+334,Hogar y decoracii,Muebles,450000
+335,Tecnologi,Accesorios tecnologi,450000
+336,Tecnologi,Accesorios tecnologi,450000
+337,Electrodomi,Otros,450000
+338,Inmuebles,Apartamentos,450000
+339,Deportes y entretenimiento,Boleteri,450000
+340,Deportes y entretenimiento,Instrumentos musicales y accesorios,450000
+341,Deportes y entretenimiento,Instrumentos musicales y accesorios,450000
+342,Hogar y decoracii,Decoracii,470000
+343,Inmuebles,Oficinas y otros,500000
+344,Deportes y entretenimiento,Bicicletas y accesorios,500000
+345,Moda y accesorios,Otros,500000
+346,Deportes y entretenimiento,Arti,500000
+347,Inmuebles,Fincas,500000
+348,Tecnologi,Tablets,500000
+349,Deportes y entretenimiento,Arti,500000
+350,Inmuebles,Apartamentos,500000
+351,Deportes y entretenimiento,Instrumentos musicales y accesorios,500000
+352,Hogar y decoracii,Muebles,500000
+353,Electrodomi,Neveras - congeladores,500000
+354,Bebi,Dormitorios - cunas,500000
+355,Tecnologi,Audio,500000
+356,Bebi,Juguetes,500000
+357,Tecnologi,Videojuegos - consolas,510000
+358,Deportes y entretenimiento,Bicicletas y accesorios,520000
+359,Tecnologi,Celulares y teli,520000
+360,Tecnologi,Videojuegos - consolas,520000
+361,Inmuebles,Fincas,530000
+362,Hogar y decoracii,Muebles,550000
+363,Tecnologi,Celulares y teli,550000
+364,Tecnologi,Camaras y accesorios,550000
+365,Deportes y entretenimiento,Bicicletas y accesorios,550000
+366,Inmuebles,Oficinas y otros,550000
+367,Hogar y decoracii,Dormitorios,550000
+368,Tecnologi,Camaras y accesorios,550000
+369,Inmuebles,Casas,555000
+370,Moda y accesorios,Accesorios,560000
+371,Hogar y decoracii,2019-07-29 14:07:37:000951,570000
+372,Tecnologi,Camaras y accesorios,580000
+373,Hogar y decoracii,Salas,600000
+374,Deportes y entretenimiento,Bicicletas y accesorios,600000
+375,Tecnologi,Audio,600000
+376,Hogar y decoracii,Muebles,600000
+377,Tecnologi,Audio,620000
+378,Tecnologi,Celulares y teli,630000
+379,Tecnologi,Videojuegos - consolas,640000
+380,Inmuebles,Apartamentos,640000
+381,Deportes y entretenimiento,Arti,650000
+382,Inmuebles,Fincas,650000
+383,Inmuebles,Apartamentos,650000
+384,Tecnologi,Videojuegos - consolas,650000
+385,Tecnologi,Computadores  laptops y accesorios,650000
+386,Hogar y decoracii,Muebles,650000
+387,Tecnologi,Celulares y teli,650000
+388,Inmuebles,Apartamentos,650000
+389,Hogar y decoracii,Muebles,650000
+390,Tecnologi,Tablets,650000
+391,Deportes y entretenimiento,Bicicletas y accesorios,650000
+392,Deportes y entretenimiento,Arti,650000
+393,Inmuebles,Casas,660000
+394,Tecnologi,Audio,670000
+395,Hogar y decoracii,Muebles,680000
+396,Tecnologi,Audio,689900
+397,Deportes y entretenimiento,Bicicletas y accesorios,690000
+398,Inmuebles,Fincas,700000
+399,Inmuebles,Apartamentos,700000
+400,Deportes y entretenimiento,Bicicletas y accesorios,700000
+401,Moda y accesorios,Vestidos,700000
+402,Tecnologi,Celulares y teli,700000
+403,Inmuebles,Apartamentos,700000
+404,Inmuebles,Apartamentos,700000
+405,Hogar y decoracii,Muebles,700000
+406,Inmuebles,Fincas,700000
+407,Inmuebles,Apartamentos,700000
+408,Inmuebles,Apartamentos,720000
+409,Tecnologi,Accesorios tecnologi,725000
+410,Inmuebles,Apartamentos,730000
+411,Tecnologi,Audio,750000
+412,Tecnologi,Tablets,750000
+413,Inmuebles,Fincas,750000
+414,Inmuebles,Apartamentos,750000
+415,Tecnologi,Tv - reproductores de video,750000
+416,Deportes y entretenimiento,Bicicletas y accesorios,750000
+417,Inmuebles,Apartamentos,750000
+418,Moda y accesorios,Accesorios,750000
+419,Tecnologi,Videojuegos - consolas,750000
+420,Inmuebles,Casas,750000
+421,Inmuebles,Apartamentos,770000
+422,Inmuebles,Apartamentos,790000
+423,Inmuebles,Apartamentos,790000
+424,Inmuebles,Casas,790000
+425,Inmuebles,Apartamentos,800000
+426,Tecnologi,Camaras y accesorios,800000
+427,Inmuebles,Fincas,800000
+428,Tecnologi,Videojuegos - consolas,800000
+429,Tecnologi,Celulares y teli,800000
+430,Inmuebles,Apartamentos,800000
+431,Inmuebles,Apartamentos,800000
+432,Deportes y entretenimiento,Bicicletas y accesorios,800000
+433,Deportes y entretenimiento,Bicicletas y accesorios,800000
+434,Inmuebles,Apartamentos,800000
+435,Inmuebles,Apartamentos,800000
+436,Tecnologi,Celulares y teli,800000
+437,Tecnologi,Celulares y teli,800000
+438,Servicios y maquinaria,Disei,800000
+439,Electrodomi,Neveras - congeladores,820000
+440,Inmuebles,Apartamentos,830000
+441,Inmuebles,Apartamentos,830000
+442,Inmuebles,Apartamentos,835000
+443,Tecnologi,Computadores  laptops y accesorios,850000
+444,Electrodomi,Lavadoras - secadoras,850000
+445,Deportes y entretenimiento,Bicicletas y accesorios,850000
+446,Hogar y decoracii,Muebles,850000
+447,Deportes y entretenimiento,Bicicletas y accesorios,850000
+448,Hogar y decoracii,Muebles,850000
+449,Deportes y entretenimiento,Bicicletas y accesorios,850000
+450,Bebi,Otros,850000
+451,Inmuebles,Apartamentos,856000
+452,Tecnologi,Celulares y teli,880000
+453,Inmuebles,Apartamentos,890000
+454,Deportes y entretenimiento,Bicicletas y accesorios,900000
+455,Inmuebles,Fincas,900000
+456,Inmuebles,Apartamentos,900000
+457,Tecnologi,Computadores  laptops y accesorios,900000
+458,Inmuebles,Apartamentos,900000
+459,Inmuebles,Apartamentos,900000
+460,Electrodomi,Neveras - congeladores,900000
+461,Inmuebles,Casas,900000
+462,Inmuebles,Casas,900000
+463,Deportes y entretenimiento,Arti,915000
+464,Inmuebles,Apartamentos,950000
+465,Inmuebles,Apartamentos,950000
+466,Hogar y decoracii,Muebles,950000
+467,Inmuebles,Apartamentos,950000
+468,Deportes y entretenimiento,Bicicletas y accesorios,950000
+469,Deportes y entretenimiento,Bicicletas y accesorios,950000
+470,Inmuebles,Apartamentos,970000
+471,Deportes y entretenimiento,Bicicletas y accesorios,977500
+472,Moda y accesorios,Vestidos,1000000
+473,Moda y accesorios,Otros,1000000
+474,Deportes y entretenimiento,Arti,1000000
+475,Hogar y decoracii,Muebles,1000000
+476,Inmuebles,Apartamentos,1000000
+477,Inmuebles,Casas,1000000
+478,Servicios y maquinaria,Otros servicios,1000000
+479,Tecnologi,Computadores  laptops y accesorios,1000000
+480,Bebi,Otros,1000000
+481,Vehi,Accesorios,1000000
+482,Inmuebles,Apartamentos,1000000
+483,Deportes y entretenimiento,Bicicletas y accesorios,1000000
+484,Tecnologi,Celulares y teli,1000000
+485,Inmuebles,Apartamentos,1000000
+486,Tecnologi,Videojuegos - consolas,1050000
+487,Inmuebles,Apartamentos,1050000
+488,Deportes y entretenimiento,Bicicletas y accesorios,1050000
+489,Deportes y entretenimiento,Bicicletas y accesorios,1050000
+490,Deportes y entretenimiento,Bicicletas y accesorios,1050000
+491,Deportes y entretenimiento,Bicicletas y accesorios,1099000
+492,Tecnologi,Celulares y teli,1100000
+493,Deportes y entretenimiento,Bicicletas y accesorios,1100000
+494,Tecnologi,Camaras y accesorios,1100000
+495,Tecnologi,Celulares y teli,1100000
+496,Inmuebles,Apartamentos,1100000
+497,Inmuebles,Apartamentos,1100000
+498,Tecnologi,Videojuegos - consolas,1100000
+499,Tecnologi,Celulares y teli,1100000
+500,Electrodomi,Neveras - congeladores,1100000
+501,Tecnologi,Celulares y teli,1100000
+502,Tecnologi,Videojuegos - consolas,1120000
+503,Inmuebles,Apartamentos,1200000
+504,Hogar y decoracii,Muebles,1200000
+505,Inmuebles,Apartamentos,1200000
+506,Hogar y decoracii,Muebles,1200000
+507,Inmuebles,Apartamentos,1200000
+508,Tecnologi,Accesorios tecnologi,1200000
+509,Inmuebles,Apartamentos,1200000
+510,Hogar y decoracii,Salas,1200000
+511,Inmuebles,Apartamentos,1200000
+512,Inmuebles,Oficinas y otros,1300000
+513,Inmuebles,Apartamentos,1300000
+514,Inmuebles,Apartamentos,1300000
+515,Tecnologi,Celulares y teli,1300000
+516,Inmuebles,Apartamentos,1300000
+517,Vehi,Bicicletas,1300000
+518,Tecnologi,Tv - reproductores de video,1300000
+519,Inmuebles,Apartamentos,1300000
+520,Tecnologi,Videojuegos - consolas,1300000
+521,Tecnologi,Camaras y accesorios,1350000
+522,Vehi,Accesorios,1350000
+523,Inmuebles,Apartamentos,1350000
+524,Deportes y entretenimiento,Bicicletas y accesorios,1390000
+525,Inmuebles,Apartamentos,1400000
+526,Tecnologi,Camaras y accesorios,1400000
+527,Moda y accesorios,Otros,1400000
+528,Inmuebles,Apartamentos,1400000
+529,Tecnologi,Computadores  laptops y accesorios,1400000
+530,Inmuebles,Apartamentos,1400000
+531,Inmuebles,Apartamentos,1400000
+532,Inmuebles,Apartamentos,1400000
+533,Deportes y entretenimiento,Bicicletas y accesorios,1450000
+534,Tecnologi,Celulares y teli,1500000
+535,Vehi,Bicicletas,1500000
+536,Inmuebles,Apartamentos,1500000
+537,Tecnologi,Videojuegos - consolas,1500000
+538,Inmuebles,Apartamentos,1500000
+539,Tecnologi,Celulares y teli,1500000
+540,Deportes y entretenimiento,Bicicletas y accesorios,1599000
+541,Tecnologi,Celulares y teli,1600000
+542,Electrodomi,Neveras - congeladores,1600000
+543,Tecnologi,Camaras y accesorios,1600000
+544,Inmuebles,Apartamentos,1700000
+545,Tecnologi,Celulares y teli,1700000
+546,Vehi,Motos,1700000
+547,Vehi,Accesorios,1750000
+548,Tecnologi,Computadores  laptops y accesorios,1799000
+549,Tecnologi,Tv - reproductores de video,1800000
+550,Deportes y entretenimiento,Arti,1800000
+551,Inmuebles,Apartamentos,1850000
+552,Inmuebles,Apartamentos,1850000
+553,Inmuebles,Apartamentos,1850000
+554,Inmuebles,Apartamentos,1850000
+555,Tecnologi,Computadores  laptops y accesorios,1900000
+556,Deportes y entretenimiento,Bicicletas y accesorios,1900000
+557,Tecnologi,Celulares y teli,1900000
+558,Tecnologi,Celulares y teli,1950000
+559,Tecnologi,Celulares y teli,1950000
+560,Tecnologi,Celulares y teli,2000000
+561,Deportes y entretenimiento,Bicicletas y accesorios,2000000
+562,Deportes y entretenimiento,Instrumentos musicales y accesorios,2000000
+563,Hogar y decoracii,Salas,2000000
+564,Vehi,Motos,2100000
+565,Vehi,Motos,2150000
+566,Deportes y entretenimiento,Bicicletas y accesorios,2150000
+567,Hogar y decoracii,Muebles,2200000
+568,Bebi,Dormitorios - cunas,2200000
+569,Tecnologi,Computadores  laptops y accesorios,2300000
+570,Vehi,Accesorios,2350000
+571,Deportes y entretenimiento,Bicicletas y accesorios,2400000
+572,Deportes y entretenimiento,Bicicletas y accesorios,2400000
+573,Deportes y entretenimiento,Bicicletas y accesorios,2500000
+574,Deportes y entretenimiento,Otros    ,2500000
+575,Vehi,Motos,2500000
+576,Tecnologi,Celulares y teli,2500000
+577,Inmuebles,Apartamentos,2600000
+578,Deportes y entretenimiento,Bicicletas y accesorios,2700000
+579,Tecnologi,Celulares y teli,2800000
+580,Tecnologi,Videojuegos - consolas,2800000
+581,Deportes y entretenimiento,Bicicletas y accesorios,2900000
+582,Hogar y decoracii,Muebles,3000000
+583,Vehi,Motos,3000000
+584,Vehi,Motos,3100000
+585,Vehi,Motos,3200000
+586,Deportes y entretenimiento,Bicicletas y accesorios,3300000
+587,Vehi,Motos,3400000
+588,Tecnologi,Computadores  laptops y accesorios,3400000
+589,Vehi,Motos,3500000
+590,Inmuebles,Apartamentos,3500000
+591,Vehi,Motos,3500000
+592,Inmuebles,Apartamentos,3500000
+593,Vehi,Motos,3500000
+594,Vehi,Motos,3500000
+595,Deportes y entretenimiento,Bicicletas y accesorios,3600000
+596,Vehi,Motos,3650000
+597,Vehi,Motos,3700000
+598,Vehi,Motos,3700000
+599,Vehi,Motos,3800000
+600,Vehi,Motos,3900000
+601,Vehi,Motos,4000000
+602,Vehi,Motos,4000000
+603,Vehi,Motos,4000000
+604,Vehi,Motos,4050000
+605,Vehi,Motos,4100000
+606,Tecnologi,Celulares y teli,4100000
+607,Vehi,Motos,4200000
+608,Vehi,Motos,4200000
+609,Moda y accesorios,Vestidos,4200000
+610,Vehi,Motos,4200000
+611,Vehi,Motos,4400000
+612,Vehi,Motos,4500000
+613,Deportes y entretenimiento,Bicicletas y accesorios,4700000
+614,Deportes y entretenimiento,Bicicletas y accesorios,4800000
+615,Vehi,Motos,4900000
+616,Deportes y entretenimiento,Bicicletas y accesorios,5000000
+617,Vehi,Motos,5000000
+618,Deportes y entretenimiento,Bicicletas y accesorios,5100000
+619,Inmuebles,Apartamentos,5200000
+620,Deportes y entretenimiento,Bicicletas y accesorios,5750000
+621,Vehi,Motos,5900000
+622,Vehi,Carros,6000000
+623,Vehi,Motos,6000000
+624,Vehi,Motos,6500000
+625,Vehi,Motos,6500000
+626,Vehi,Motos,6700000
+627,Vehi,Motos,7000000
+628,Vehi,Motos,7100000
+629,Vehi,Motos,7600000
+630,Vehi,Motos,8000000
+631,Deportes y entretenimiento,Bicicletas y accesorios,8000000
+632,Vehi,Motos,8000000
+633,Vehi,Motos,8200000
+634,Vehi,Motos,8800000
+635,Vehi,Motos,8900000
+636,Vehi,Motos,9000000
+637,Vehi,Motos,10000000
+638,Vehi,Carros,10500000
+639,Vehi,Carros,10700000
+640,Vehi,Carros,10800000
+641,Vehi,Motos,11000000
+642,Vehi,Carros,11200000
+643,Vehi,Motos,11200000
+644,Vehi,Carros,11500000
+645,Vehi,Carros,11500000
+646,Vehi,Motos,12000000
+647,Servicios y maquinaria,Otros servicios,12000000
+648,Tecnologi,Camaras y accesorios,12000000
+649,Vehi,Carros,12200000
+650,Vehi,Carros,12200000
+651,Vehi,Carros,13000000
+652,Vehi,Carros,13500000
+653,Vehi,Carros,13500000
+654,Vehi,Carros,13500000
+655,Vehi,Carros,13500000
+656,Vehi,Carros,13800000
+657,Vehi,Carros,14000000
+658,Vehi,Carros,14000000
+659,Vehi,Motos,14200000
+660,Vehi,Carros,14500000
+661,Vehi,Carros,14800000
+662,Inmuebles,Lotes,14900000
+663,Vehi,Carros,15000000
+664,Vehi,Carros,15000000
+665,Vehi,Motos,15000000
+666,Vehi,Carros,15000000
+667,Vehi,Carros,15000000
+668,Vehi,Carros,15000000
+669,Vehi,Carros,15000000
+670,Vehi,Carros,15500000
+671,Vehi,Carros,15500000
+672,Vehi,Motos,15800000
+673,Vehi,Carros,16000000
+674,Vehi,Carros,16000000
+675,Vehi,Carros,16000000
+676,Vehi,Carros,16500000
+677,Vehi,Carros,16500000
+678,Vehi,Carros,17000000
+679,Vehi,Motos,17000000
+680,Vehi,Carros,17000000
+681,Vehi,Carros,17500000
+682,Vehi,Carros,17800000
+683,Vehi,Carros,18000000
+684,Vehi,Carros,18000000
+685,Vehi,Motos,18400000
+686,Vehi,Carros,18500000
+687,Vehi,Motos,18500000
+688,Vehi,Carros,18600000
+689,Vehi,Carros,19000000
+690,Vehi,Carros,19000000
+691,Vehi,Motos,19500000
+692,Vehi,Carros,20000000
+693,Vehi,Carros,20000000
+694,Servicios y maquinaria,Disei,20000000
+695,Vehi,Carros,20500000
+696,Vehi,Carros,20800000
+697,Vehi,Carros,21000000
+698,Vehi,Carros,21000000
+699,Vehi,Carros,21000000
+700,Vehi,Carros,21500000
+701,Vehi,Carros,21500000
+702,Vehi,Carros,21500000
+703,Vehi,Carros,21900000
+704,Vehi,Carros,22000000
+705,Vehi,Carros,22000000
+706,Vehi,Carros,22000000
+707,Vehi,Carros,22000000
+708,Vehi,Carros,22000000
+709,Vehi,Carros,22000000
+710,Vehi,Carros,22000000
+711,Vehi,Motos,22450000
+712,Vehi,Motos,22500000
+713,Vehi,Carros,22500000
+714,Vehi,Carros,22500000
+715,Vehi,Carros,22500000
+716,Vehi,Carros,22900000
+717,Vehi,Motos,23000000
+718,Servicios y maquinaria,Otros servicios,23000000
+719,Vehi,Carros,23000000
+720,Vehi,Carros,23200000
+721,Vehi,Carros,23500000
+722,Vehi,Carros,23500000
+723,Vehi,Carros,23700000
+724,Vehi,Carros,23800000
+725,Vehi,Carros,24000000
+726,Vehi,Carros,24490000
+727,Vehi,Carros,24500000
+728,Vehi,Carros,24800000
+729,Vehi,Carros,25000000
+730,Vehi,Carros,25000000
+731,Vehi,Carros,25000000
+732,Vehi,Carros,25000000
+733,Inmuebles,Lotes,25000000
+734,Vehi,Carros,25000000
+735,Vehi,Carros,25000000
+736,Vehi,Carros,25000000
+737,Vehi,Carros,25500000
+738,Vehi,Carros,25600000
+739,Vehi,Carros,25900000
+740,Vehi,Carros,26000000
+741,Vehi,Carros,26000000
+742,Vehi,Carros,26000000
+743,Vehi,Motos,26000000
+744,Vehi,Carros,26500000
+745,Vehi,Carros,26500000
+746,Vehi,Motos,26500000
+747,Vehi,Motos,26500000
+748,Vehi,Carros,26800000
+749,Vehi,Carros,26900000
+750,Vehi,Carros,27000000
+751,Vehi,Carros,27000000
+752,Vehi,Carros,27000000
+753,Vehi,Carros,27000000
+754,Vehi,Carros,27000000
+755,Vehi,Carros,27000000
+756,Vehi,Carros,27000000
+757,Vehi,Carros,27000000
+758,Vehi,Carros,27000000
+759,Vehi,Carros,27100000
+760,Vehi,Carros,27500000
+761,Vehi,Carros,27500000
+762,Vehi,Carros,27500000
+763,Vehi,Motos,27500000
+764,Vehi,Carros,27800000
+765,Vehi,Carros,28000000
+766,Vehi,Carros,28000000
+767,Vehi,Carros,28500000
+768,Vehi,Carros,28500000
+769,Vehi,Carros,28500000
+770,Vehi,Carros,28500000
+771,Vehi,Carros,28800000
+772,Vehi,Carros,28900000
+773,Vehi,Carros,28990000
+774,Vehi,Motos,29000000
+775,Vehi,Carros,29000000
+776,Vehi,Carros,29000000
+777,Vehi,Carros,29000000
+778,Vehi,Carros,29000000
+779,Vehi,Carros,29000000
+780,Vehi,Carros,29500000
+781,Vehi,Carros,29700000
+782,Vehi,Carros,29800000
+783,Vehi,Carros,30000000
+784,Vehi,Carros,30000000
+785,Vehi,Carros,30000000
+786,Vehi,Carros,30000000
+787,Vehi,Carros,30000000
+788,Vehi,Carros,30000000
+789,Vehi,Carros,30000000
+790,Vehi,Carros,30000000
+791,Vehi,Carros,30500000
+792,Vehi,Carros,30500000
+793,Vehi,Carros,30900000
+794,Vehi,Carros,30900000
+795,Vehi,Carros,30900000
+796,Vehi,Carros,31000000
+797,Vehi,Carros,31000000
+798,Vehi,Carros,31000000
+799,Vehi,Carros,31000000
+800,Vehi,Carros,31800000
+801,Vehi,Carros,31900000
+802,Vehi,Carros,31900000
+803,Vehi,Carros,31900000
+804,Vehi,Carros,32000000
+805,Vehi,Carros,32000000
+806,Vehi,Carros,32000000
+807,Vehi,Carros,32000000
+808,Vehi,Carros,32500000
+809,Vehi,Carros,32500000
+810,Vehi,Carros,32600000
+811,Vehi,Carros,32900000
+812,Vehi,Carros,33000000
+813,Vehi,Motos,33000000
+814,Vehi,Carros,33000000
+815,Vehi,Carros,33000000
+816,Vehi,Carros,33000000
+817,Vehi,Carros,33000000
+818,Vehi,Carros,33000000
+819,Vehi,Carros,33000000
+820,Vehi,Carros,33300000
+821,Vehi,Carros,33500000
+822,Vehi,Carros,33500000
+823,Vehi,Carros,33800000
+824,Vehi,Carros,34000000
+825,Vehi,Carros,34000000
+826,Vehi,Carros,34000000
+827,Vehi,Carros,34000000
+828,Vehi,Carros,34000000
+829,Vehi,Carros,34400000
+830,Vehi,Carros,34500000
+831,Vehi,Carros,34900000
+832,Vehi,Carros,35000000
+833,Vehi,Carros,35000000
+834,Vehi,Carros,35000000
+835,Vehi,Carros,35000000
+836,Vehi,Motos,35000000
+837,Vehi,Carros,35000000
+838,Vehi,Carros,35000000
+839,Vehi,Carros,35000000
+840,Vehi,Carros,35000000
+841,Vehi,Carros,35900000
+842,Vehi,Carros,36000000
+843,Vehi,Carros,36000000
+844,Vehi,Carros,36200000
+845,Vehi,Carros,36500000
+846,Vehi,Carros,36500000
+847,Vehi,Carros,37000000
+848,Vehi,Carros,37000000
+849,Vehi,Carros,37500000
+850,Vehi,Carros,38000000
+851,Vehi,Motos,38000000
+852,Vehi,Carros,38800000
+853,Vehi,Carros,38800000
+854,Vehi,Carros,39000000
+855,Vehi,Carros,39000000
+856,Vehi,Carros,39000000
+857,Vehi,Carros,39500000
+858,Vehi,Carros,39500000
+859,Vehi,Carros,39800000
+860,Vehi,Carros,39800000
+861,Vehi,Carros,40000000
+862,Vehi,Carros,40000000
+863,Vehi,Carros,40000000
+864,Vehi,Motos,40000000
+865,Vehi,Carros,40500000
+866,Vehi,Carros,41000000
+867,Vehi,Carros,41000000
+868,Vehi,Carros,41500000
+869,Vehi,Carros,41500000
+870,Vehi,Carros,41900000
+871,Vehi,Carros,42000000
+872,Vehi,Carros,42000000
+873,Vehi,Carros,42000000
+874,Vehi,Carros,42500000
+875,Vehi,Carros,42500000
+876,Vehi,Carros,43000000
+877,Vehi,Carros,43000000
+878,Vehi,Carros,43000000
+879,Vehi,Carros,44000000
+880,Vehi,Carros,44000000
+881,Vehi,Carros,44000000
+882,Vehi,Carros,44000000
+883,Vehi,Carros,44500000
+884,Vehi,Carros,44800000
+885,Vehi,Carros,45000000
+886,Vehi,Carros,45000000
+887,Vehi,Carros,45900000
+888,Vehi,Carros,46000000
+889,Vehi,Carros,46000000
+890,Vehi,Carros,47500000
+891,Vehi,Carros,47600000
+892,Vehi,Carros,48000000
+893,Vehi,Carros,48000000
+894,Vehi,Carros,48000000
+895,Vehi,Carros,48000000
+896,Vehi,Carros,48500000
+897,Vehi,Carros,49000000
+898,Vehi,Carros,49150000
+899,Vehi,Carros,49500000
+900,Vehi,Carros,49700000
+901,Vehi,Carros,50000000
+902,Vehi,Motos,50000000
+903,Inmuebles,Lotes,50000000
+904,Vehi,Carros,50500000
+905,Vehi,Carros,51000000
+906,Vehi,Carros,51500000
+907,Vehi,Carros,52000000
+908,Vehi,Motos,52000000
+909,Vehi,Carros,52500000
+910,Vehi,Carros,53000000
+911,Vehi,Carros,53000000
+912,Vehi,Carros,53000000
+913,Vehi,Carros,53100000
+914,Vehi,Carros,54000000
+915,Vehi,Carros,54000000
+916,Vehi,Carros,54000000
+917,Vehi,Carros,55000000
+918,Vehi,Carros,55000000
+919,Vehi,Carros,55700000
+920,Vehi,Carros,56000000
+921,Vehi,Carros,56500000
+922,Vehi,Carros,56800000
+923,Vehi,Carros,57000000
+924,Vehi,Carros,57000000
+925,Vehi,Carros,57500000
+926,Vehi,Carros,58500000
+927,Vehi,Carros,59000000
+928,Vehi,Carros,59000000
+929,Inmuebles,Lotes,59400000
+930,Vehi,Carros,59500000
+931,Vehi,Carros,60000000
+932,Inmuebles,Apartamentos,61000000
+933,Vehi,Carros,61000000
+934,Vehi,Carros,61500000
+935,Vehi,Carros,62000000
+936,Vehi,Carros,62500000
+937,Vehi,Carros,63000000
+938,Vehi,Carros,63000000
+939,Vehi,Carros,64000000
+940,Vehi,Carros,64500000
+941,Vehi,Carros,65000000
+942,Inmuebles,Lotes,65000000
+943,Vehi,Carros,65000000
+944,Inmuebles,Apartamentos,65000000
+945,Vehi,Carros,66000000
+946,Vehi,Carros,66000000
+947,Vehi,Carros,66500000
+948,Vehi,Carros,67000000
+949,Vehi,Carros,67500000
+950,Vehi,Carros,67900000
+951,Inmuebles,Locales comerciales,68000000
+952,Vehi,Carros,68500000
+953,Vehi,Carros,68500000
+954,Vehi,Carros,69000000
+955,Vehi,Carros,69800000
+956,Vehi,Carros,69900000
+957,Vehi,Carros,70000000
+958,Vehi,Carros,70000000
+959,Vehi,Carros,70900000
+960,Vehi,Carros,71000000
+961,Vehi,Carros,72000000
+962,Vehi,Motos,73000000
+963,Vehi,Carros,73000000
+964,Vehi,Carros,74500000
+965,Vehi,Carros,75000000
+966,Vehi,Carros,75000000
+967,Inmuebles,Apartamentos,75000000
+968,Vehi,Carros,76000000
+969,Inmuebles,Apartamentos,77500000
+970,Vehi,Carros,78000000
+971,Inmuebles,Apartamentos,78000000
+972,Vehi,Carros,79900000
+973,Inmuebles,Lotes,80000000
+974,Inmuebles,Apartamentos,80327252
+975,Inmuebles,Apartamentos,84000000
+976,Inmuebles,Apartamentos,85000000
+977,Vehi,Motos,86000000
+978,Vehi,Carros,87500000
+979,Vehi,Carros,88000000
+980,Inmuebles,Casas,88000000
+981,Vehi,Carros,90000000
+982,Inmuebles,Apartamentos,93000000
+983,Inmuebles,Apartamentos,93000000
+984,Inmuebles,Apartamentos,94000000
+985,Vehi,Carros,94900000
+986,Inmuebles,Apartamentos,95000000
+987,Inmuebles,Casas,95000000
+988,Inmuebles,Apartamentos,95000000
+989,Inmuebles,Apartamentos,96000000
+990,Vehi,Carros,98000000
+991,Vehi,Carros,98000000
+992,Inmuebles,Apartamentos,98000000
+993,Vehi,Carros,99000000
+994,Inmuebles,Apartamentos,100000000
+995,Vehi,Carros,100000000
+996,Inmuebles,Apartamentos,100000000
+997,Vehi,Carros,100000000
+998,Inmuebles,Casas,105000000
+999,Inmuebles,Apartamentos,105000000
+1000,Inmuebles,Apartamentos,108000000
+1001,Inmuebles,Apartamentos,110000000
+1002,Inmuebles,Apartamentos,115000000
+1003,Inmuebles,Apartamentos,115000000
+1004,Inmuebles,Apartamentos,115000000
+1005,Inmuebles,Apartamentos,118000000
+1006,Inmuebles,Apartamentos,120000000
+1007,Inmuebles,Apartamentos,120000000
+1008,Vehi,Carros,120000000
+1009,Inmuebles,Apartamentos,120000000
+1010,Inmuebles,Apartamentos,120000000
+1011,Inmuebles,Casas,120000000
+1012,Vehi,Carros,123000000
+1013,Inmuebles,Apartamentos,125000000
+1014,Inmuebles,Apartamentos,125000000
+1015,Inmuebles,Apartamentos,125000000
+1016,Vehi,Carros,125000000
+1017,Inmuebles,Apartamentos,126000000
+1018,Vehi,Carros,127000000
+1019,Inmuebles,Apartamentos,127000000
+1020,Inmuebles,Casas,130000000
+1021,Inmuebles,Lotes,130000000
+1022,Inmuebles,Apartamentos,130000000
+1023,Inmuebles,Apartamentos,132000000
+1024,Inmuebles,Apartamentos,135000000
+1025,Inmuebles,Apartamentos,136000000
+1026,Inmuebles,Casas,140000000
+1027,Inmuebles,Casas,140000000
+1028,Inmuebles,Apartamentos,140000000
+1029,Inmuebles,Apartamentos,140000000
+1030,Inmuebles,Apartamentos,140000000
+1031,Inmuebles,Apartamentos,140000000
+1032,Inmuebles,Apartamentos,142000000
+1033,Inmuebles,Casas,145000000
+1034,Inmuebles,Apartamentos,145000000
+1035,Inmuebles,Apartamentos,148000000
+1036,Inmuebles,Apartamentos,149999000
+1037,Inmuebles,Apartamentos,150000000
+1038,Inmuebles,Apartamentos,150000000
+1039,Inmuebles,Apartamentos,150000000
+1040,Inmuebles,Apartamentos,155000000
+1041,Inmuebles,Casas,155000000
+1042,Inmuebles,Apartamentos,155000000
+1043,Inmuebles,Casas,155000000
+1044,Inmuebles,Apartamentos,160000000
+1045,Inmuebles,Apartamentos,160000000
+1046,Inmuebles,Casas,160000000
+1047,Inmuebles,Apartamentos,160000000
+1048,Inmuebles,Apartamentos,160000000
+1049,Inmuebles,Apartamentos,160000000
+1050,Inmuebles,Lotes,160000000
+1051,Inmuebles,Apartamentos,161500000
+1052,Inmuebles,Apartamentos,165000000
+1053,Inmuebles,Apartamentos,165000000
+1054,Inmuebles,Apartamentos,165000000
+1055,Inmuebles,Apartamentos,165000000
+1056,Inmuebles,Apartamentos,165000000
+1057,Inmuebles,Apartamentos,165000000
+1058,Inmuebles,Apartamentos,168000000
+1059,Inmuebles,Apartamentos,168000000
+1060,Inmuebles,Apartamentos,170000000
+1061,Inmuebles,Apartamentos,175000000
+1062,Inmuebles,Apartamentos,175000000
+1063,Inmuebles,Apartamentos,175000000
+1064,Inmuebles,Apartamentos,176000000
+1065,Inmuebles,Casas,179000000
+1066,Inmuebles,Apartamentos,180000000
+1067,Inmuebles,Apartamentos,180000000
+1068,Inmuebles,Apartamentos,180000000
+1069,Inmuebles,Apartamentos,185000000
+1070,Inmuebles,Apartamentos,185000000
+1071,Inmuebles,Apartamentos,187000000
+1072,Inmuebles,Lotes,190000000
+1073,Inmuebles,Apartamentos,198000000
+1074,Inmuebles,Apartamentos,199000000
+1075,Inmuebles,Apartamentos,200000000
+1076,Inmuebles,Casas,200000000
+1077,Inmuebles,Apartamentos,200000000
+1078,Inmuebles,Casas,200000000
+1079,Inmuebles,Apartamentos,210000000
+1080,Inmuebles,Apartamentos,210000000
+1081,Inmuebles,Apartamentos,210000000
+1082,Inmuebles,Apartamentos,210000000
+1083,Inmuebles,Apartamentos,215000000
+1084,Inmuebles,Casas,215000000
+1085,Inmuebles,Lotes,220000000
+1086,Inmuebles,Apartamentos,220000000
+1087,Inmuebles,Apartamentos,225000000
+1088,Inmuebles,Apartamentos,225000000
+1089,Inmuebles,Apartamentos,225000000
+1090,Inmuebles,Apartamentos,227000000
+1091,Inmuebles,Apartamentos,230000000
+1092,Inmuebles,Apartamentos,230000000
+1093,Inmuebles,Lotes,230000000
+1094,Inmuebles,Apartamentos,235000000
+1095,Inmuebles,Apartamentos,237500000
+1096,Inmuebles,Apartamentos,238000000
+1097,Inmuebles,Apartamentos,240000000
+1098,Inmuebles,Apartamentos,240000000
+1099,Inmuebles,Apartamentos,240000000
+1100,Inmuebles,Apartamentos,240000000
+1101,Inmuebles,Apartamentos,240000000
+1102,Inmuebles,Apartamentos,240000000
+1103,Inmuebles,Apartamentos,245000000
+1104,Inmuebles,Casas,245000000
+1105,Inmuebles,Apartamentos,249000000
+1106,Inmuebles,Apartamentos,250000000
+1107,Inmuebles,Apartamentos,250000000
+1108,Inmuebles,Apartamentos,250000000
+1109,Inmuebles,Casas,250000000
+1110,Inmuebles,Apartamentos,250000000
+1111,Inmuebles,Apartamentos,250000000
+1112,Inmuebles,Casas,250000000
+1113,Inmuebles,Apartamentos,255000000
+1114,Inmuebles,Apartamentos,255000000
+1115,Inmuebles,Apartamentos,258000000
+1116,Inmuebles,Apartamentos,260000000
+1117,Inmuebles,Apartamentos,260000000
+1118,Inmuebles,Apartamentos,260000000
+1119,Inmuebles,Apartamentos,260000000
+1120,Inmuebles,Apartamentos,260000000
+1121,Inmuebles,Apartamentos,260000000
+1122,Inmuebles,Apartamentos,265000000
+1123,Inmuebles,Apartamentos,268000000
+1124,Inmuebles,Apartamentos,270000000
+1125,Inmuebles,Casas,270000000
+1126,Inmuebles,Apartamentos,270000000
+1127,Inmuebles,Apartamentos,270000000
+1128,Inmuebles,Apartamentos,270000000
+1129,Inmuebles,Apartamentos,270000000
+1130,Inmuebles,Apartamentos,274000000
+1131,Inmuebles,Apartamentos,277000000
+1132,Inmuebles,Apartamentos,279000000
+1133,Inmuebles,Apartamentos,280000000
+1134,Inmuebles,Apartamentos,280000000
+1135,Inmuebles,Casas,280000000
+1136,Inmuebles,Apartamentos,284000000
+1137,Inmuebles,Apartamentos,284000000
+1138,Inmuebles,Apartamentos,285000000
+1139,Inmuebles,Casas,285000000
+1140,Inmuebles,Apartamentos,290000000
+1141,Inmuebles,Apartamentos,290000000
+1142,Inmuebles,Apartamentos,290000000
+1143,Inmuebles,Casas,290000000
+1144,Inmuebles,Apartamentos,292000000
+1145,Inmuebles,Apartamentos,294600000
+1146,Inmuebles,Apartamentos,295000000
+1147,Inmuebles,Apartamentos,295000000
+1148,Inmuebles,Apartamentos,299000000
+1149,Inmuebles,Apartamentos,299000000
+1150,Inmuebles,Apartamentos,299000000
+1151,Inmuebles,Casas,300000000
+1152,Inmuebles,Apartamentos,300000000
+1153,Inmuebles,Casas,300000000
+1154,Inmuebles,Casas,300000000
+1155,Inmuebles,Casas,300000000
+1156,Inmuebles,Casas,300000000
+1157,Inmuebles,Apartamentos,300000000
+1158,Inmuebles,Apartamentos,305000000
+1159,Inmuebles,Apartamentos,305800000
+1160,Inmuebles,Apartamentos,310000000
+1161,Inmuebles,Apartamentos,312500000
+1162,Inmuebles,Apartamentos,314900000
+1163,Inmuebles,Apartamentos,315000000
+1164,Inmuebles,Apartamentos,315000000
+1165,Inmuebles,Casas,320000000
+1166,Inmuebles,Casas,320000000
+1167,Inmuebles,Apartamentos,320000000
+1168,Inmuebles,Apartamentos,326000000
+1169,Inmuebles,Apartamentos,329000000
+1170,Inmuebles,Apartamentos,330000000
+1171,Inmuebles,Apartamentos,330000000
+1172,Inmuebles,Apartamentos,330000000
+1173,Inmuebles,Apartamentos,330000000
+1174,Inmuebles,Apartamentos,330000000
+1175,Inmuebles,Apartamentos,339000000
+1176,Inmuebles,Apartamentos,340000000
+1177,Inmuebles,Apartamentos,340000000
+1178,Inmuebles,Casas,340000000
+1179,Inmuebles,Apartamentos,340000000
+1180,Inmuebles,Apartamentos,350000000
+1181,Inmuebles,Apartamentos,350000000
+1182,Inmuebles,Apartamentos,350000000
+1183,Inmuebles,Apartamentos,350000000
+1184,Inmuebles,Apartamentos,350000000
+1185,Inmuebles,Apartamentos,360000000
+1186,Inmuebles,Apartamentos,360000000
+1187,Inmuebles,Apartamentos,365000000
+1188,Inmuebles,Apartamentos,368000000
+1189,Inmuebles,Casas,370000000
+1190,Inmuebles,Fincas,380000000
+1191,Inmuebles,Casas,385000000
+1192,Inmuebles,Apartamentos,385000000
+1193,Inmuebles,Apartamentos,389500000
+1194,Inmuebles,Apartamentos,390000000
+1195,Inmuebles,Apartamentos,390000000
+1196,Inmuebles,Casas,390000000
+1197,Inmuebles,Apartamentos,390770000
+1198,Inmuebles,Apartamentos,400000000
+1199,Inmuebles,Apartamentos,405000000
+1200,Inmuebles,Apartamentos,405000000
+1201,Inmuebles,Apartamentos,410000000
+1202,Inmuebles,Casas,420000000
+1203,Inmuebles,Apartamentos,420000000
+1204,Inmuebles,Apartamentos,430000000
+1205,Inmuebles,Casas,435000000
+1206,Inmuebles,Casas,435000000
+1207,Inmuebles,Apartamentos,440000000
+1208,Inmuebles,Apartamentos,445000000
+1209,Inmuebles,Fincas,450000000
+1210,Inmuebles,Casas,450000000
+1211,Inmuebles,Casas,460000000
+1212,Inmuebles,Apartamentos,460000000
+1213,Inmuebles,Apartamentos,465000000
+1214,Inmuebles,Fincas,470000000
+1215,Inmuebles,Apartamentos,470000000
+1216,Inmuebles,Apartamentos,490000000
+1217,Inmuebles,Casas,510000000
+1218,Inmuebles,Apartamentos,510000000
+1219,Inmuebles,Apartamentos,520000000
+1220,Inmuebles,Apartamentos,525000000
+1221,Inmuebles,Apartamentos,530000000
+1222,Inmuebles,Casas,530000000
+1223,Inmuebles,Casas,550000000
+1224,Inmuebles,Casas,550000000
+1225,Inmuebles,Apartamentos,560000000
+1226,Inmuebles,Casas,560000000
+1227,Inmuebles,Apartamentos,585000000
+1228,Inmuebles,Apartamentos,590000000
+1229,Inmuebles,Casas,600000000
+1230,Inmuebles,Apartamentos,600000000
+1231,Inmuebles,Apartamentos,625000000
+1232,Inmuebles,Apartamentos,630000000
+1233,Inmuebles,Fincas,645000000
+1234,Inmuebles,Apartamentos,650000000
+1235,Inmuebles,Fincas,650000000
+1236,Inmuebles,Apartamentos,670000000
+1237,Inmuebles,Apartamentos,720000000
+1238,Inmuebles,Apartamentos,730000000
+1239,Inmuebles,Apartamentos,750000000
+1240,Inmuebles,Casas,750000000
+1241,Inmuebles,Casas,750000000
+1242,Inmuebles,Casas,760000000
+1243,Inmuebles,Lotes,770000000
+1244,Inmuebles,Casas,780000000
+1245,Inmuebles,Fincas,800000000
+1246,Inmuebles,Casas,820000000
+1247,Inmuebles,Apartamentos,824000000
+1248,Inmuebles,Casas,970000000
+1249,Inmuebles,Casas,980000000
+1250,Inmuebles,Apartamentos,1100000000
+1251,Inmuebles,Casas,1380000000
+1252,Inmuebles,Apartamentos,1500000000
+1253,Inmuebles,Fincas,1600000000
+1254,Alimentacii,Alimentos,65000
+1255,Alimentacii,Otros ,64900
+1256,Alimentacii,Alimentos,22000
+1257,Alimentacii,Alimentos para mascotas,120000
+1258,Alimentacii,Alimentos,3250
+1259,Alimentacii,Otros ,46500
+1260,Alimentacii,Otros ,50000
+1261,Alimentacii,Alimentos,7100
+1262,Alimentacii,Otros ,50000
+1263,Alimentacii,Alimentos,11000
+1264,Alimentacii,Otros ,249900
+1265,Alimentacii,Cosmi,50000
+1266,Alimentacii,Otros ,50000
+1267,Alimentacii,Otros ,175000
+1268,Alimentacii,Alimentos,5600
+1269,Alimentacii,Alimentos,12400
+1270,Alimentacii,Otros ,35000
+1271,Alimentacii,Alimentos,12000
+1272,Alimentacii,Otros ,39900
+1273,Alimentacii,Alimentos,18500
+1274,Alimentacii,Vitaminas - suplementos alimenticios,100000
+1275,Alimentacii,Otros ,50000
+1276,Alimentacii,Otros ,535
+1277,Alimentacii,Otros ,42000
+1278,Alimentacii,Alimentos,24999
+1279,Alimentacii,Vitaminas - suplementos alimenticios,120000
+1280,Alimentacii,Alimentos,5500
+1281,Alimentacii,Cosmi,13000
+1282,Alimentacii,Vitaminas - suplementos alimenticios,92000
+1283,Alimentacii,Cosmi,59000
+1284,Alimentacii,Alimentos para mascotas,46500
+1285,Alimentacii,Otros ,62000
+1286,Alimentacii,Otros ,30000
+1287,Alimentacii,Otros ,50000
+1288,Alimentacii,Vitaminas - suplementos alimenticios,70000
+1289,Alimentacii,Otros ,125000
+1290,Alimentacii,Otros ,56900
+1291,Alimentacii,Otros ,54000

@@ -1,0 +1,22 @@
+{
+    "type": "record",
+    "name": "Users",
+    "namespace": "com.amazonaws.personalize.schema",
+    "fields": [
+        {
+            "name": "USER_ID",
+            "type": "string"
+        },
+        {
+            "name": "UBICATION",
+            "type": "string",
+            "categorical": true
+        },
+        {
+            "name": "CORPORATE",
+            "type": "string",
+            "categorical": true
+        }
+    ],
+    "version": "1.0"
+}
