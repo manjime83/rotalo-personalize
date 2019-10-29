@@ -1,7 +1,7 @@
 #!/bin/bash
 
 BUCKET=rotalo-dev-personalize
-ROLE=arn:aws:iam::948003242781:role/rotalo-dev-role
+ROLE=arn:aws:iam::<account>:role/rotalo-dev-role
 
 aws s3 cp data s3://$BUCKET --recursive --exclude "*" --include "*.csv"
 
